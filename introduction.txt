@@ -1,0 +1,17 @@
+--------------------------- DATABASE---------------------------
+
+
+Database is a collection of data in a format that can be easily accessed(Digital)
+
+A software application used to manage our DB is called DBMS(Database Management System)
+
+
+
+ _______________________________________________________
+|                                                      |
+|                                                      |
+|                                                      |
+|     user ---> DBMS  -----> DATABASE                  |
+|                                                      |
+|                                                      |
+|______________________________________________________|
