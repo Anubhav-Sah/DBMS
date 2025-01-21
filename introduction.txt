@@ -15,3 +15,32 @@ A software application used to manage our DB is called DBMS(Database Management 
 |                                                      |
 |                                                      |
 |______________________________________________________|
+
+
+---------------Types of Database---------------
+
+-> Relational Database  (RDBMS)
+    -Data Stored in tables
+    -Example :- MySQL , Oracle, SQL Server, PostgreSQL
+
+-> NoSQL Database(NoSQL)
+    -Data Stored in collections, data not stored in tables
+    -Example :- MongoDB, Cassandra, Redis, Couchbase
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+What is SQL?
+-> SQL (Structure Query Language) is a programming Language used to interact with relational databases.
+-> It is used to perform CRUD operations:
+        -Create
+        -Read
+        -Update
+        -Delete
+
+History
+-> 1970s: Edgar F. Codd developed the concept of relational databases
+-> 1974: First relational database was developed by IBM
+-> Earlier it was knows as SEQUEL (Structured English Query Language)
+-> Later it was renamed to SQL (Structured Query Language)
+
